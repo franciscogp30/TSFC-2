@@ -1,0 +1,16 @@
+name: TSFC-II
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - sympy
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - pandas
+  - python=3.10
+  - scipy
+  - ipykernel
+  - notebook
+  - jupyterlab
+prefix: /home/francisco_gp/miniconda3/envs/TSFC-II
